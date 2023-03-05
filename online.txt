@@ -1,0 +1,1 @@
+{"GameId":null,"IsOnline":false,"LastLocation":"Offline","LastOnline":"2010-09-30T12:31:13.263-05:00","LocationType":null,"PlaceId":null,"VisitorId":1,"PresenceType":0,"UniverseId":null,"Visibility":0}
