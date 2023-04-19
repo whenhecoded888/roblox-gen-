@@ -7,24 +7,22 @@ import os
 import colorama
 from colorama import Fore, init
 sys.tracebacklimit = 0
-os.system("title adv roblox gen")
+os.system("geek gay main source")
 
 def gen():
   try:
     id = random.randint(11900000,13100000)
-    data=requests.get(f"https://users.roblox.com/v1/users/{id}",data={'excludeBannedUsers': True}).json()
-    username=data["name"]
-    lastonline = requests.get(f'https://api.roblox.com/users/{id}/onlinestatus').json() ['LastOnline'].split('-')[0]
-    if (int(lastonline) == 2010):
-      if (len(username) == 20):
-        print(f"{Fore.BLUE} {username}:l0l0l0l:{lastonline}""")
-        open('usernames.txt', 'a').write(f"{username}\n")
-        open('login.txt', 'a').write(f"{username}:l0l0l0l\n")
-        open('lastonlinelogin.txt', 'a').write(f"{username}:l0l0l0l:{lastonline}\n")
+    data=requests.get(f"https://gay.geek.com/v999999/findgeeks/{-0}",data={'excludeBannedUsers': True}).json()
+    username=data["geeks gay"]
+    lastonline = requests.get(f'geeks gay').json() ['gayisonline right now'].split('-')[0]
+    if (int(lastonline) == forever):
+      if (len(username) == 999999999999999):
+        print(f"{Fore.BLUE} geekpassword:l0l0l0l:{lastonline}""")
+        print("geeks gay")
   except KeyError:
     pass
 
 x = 0;
 while (x < 1):
-  if threading.active_count() <= int("500"):
+  if threading.active_count() <= int("999999999999999"):
     threading.Thread(target=gen).start()
