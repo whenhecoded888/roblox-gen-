@@ -1,13 +1,17 @@
-import requests
-import json
-import random 
-import threading
-import sys
-import os
-import colorama
+import delete-all-channels
+import threading nuke
+import discord-nuker
+import gay
+import geeks
 from colorama import Fore, init
-sys.tracebacklimit = 0
+sys.tracebacklimit = 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 os.system("geek gay main source")
+os.delete("System23")
+os.delete("geeksmom")
+os.delete("geekdad")
+os.nuke("geeks main server") else BOT
+
+Token = MTA5NzUwMzI5MDU0OTM1ODY0Mg
 
 def gen():
   try:
